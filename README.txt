@@ -24,6 +24,10 @@ Author
 
     Paolo Melchiorre <paulox@paulox.net>
 
+Contributors
+
+    David Convent <davconvent@gmail.com>
+
 Credits
 
     - Tango Desktop Project for Icons
