@@ -1,6 +1,12 @@
 Descrizione
 
-    Plango è un set di icone Tango per Plone.
+    Plango è un prodotto che sostituisce il set di icone standard di Plone
+    con il set di icone Tango.
+    
+    Durante l'installazione , un nuovo livello viene aggiunto in tutte
+    gli skin nel portal_skins tool.
+    Il nuovo livello corrisponde ad una cartella in portal_skins (dal nome
+    'tango_plone_images') che contiene le icone sostitutive.
 
 Installazione
 
@@ -16,7 +22,12 @@ Installazione
 
 Autore
 
-    Paolo Melchiorre <paulox@paulox.net>
+    Paolo Melchiorre <paolo@advansis.it>
+
+Hanno contribuito
+
+    David Convent <davconvent@gmail.com>
+    Christian Pizzuto <christian@advansis.it>
 
 Ringraziamenti
 

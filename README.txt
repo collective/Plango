@@ -27,6 +27,7 @@ Author
 Contributors
 
     David Convent <davconvent@gmail.com>
+    Christian Pizzuto <christian@advansis.it>
 
 Credits
 
