@@ -25,10 +25,9 @@
 __author__ = """Paolo Melchiorre <paulox@paulox.net>"""
 __docformat__ = 'plaintext'
 
-# Register our skins directory - this makes it available via portal_skins.
 
 from Products.CMFCore import DirectoryView
+GLOBALS = globals()
 
-from Products.Plango.config import GLOBALS
-
+# Register our skins directory - this makes it available via portal_skins.
 DirectoryView.registerDirectory('skins', GLOBALS)

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<object name="portal_skins">
+
+ <object name="tango_plone_images" meta_type="Filesystem Directory View"
+    directory="Plango/skins/tango_plone_images"/>
+
+ <skin-path name="*">
+  <layer name="tango_plone_images" insert-after="custom"/>
+ </skin-path>
+
+</object>

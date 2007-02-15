@@ -22,26 +22,16 @@
 # 02110-1301, USA.
 #
 
-__author__ = """Paolo Melchiorre <paulox@paulox.net>"""
+__author__ = """David Convent <davconvent@gmail.com>"""
 __docformat__ = 'plaintext'
 
 
-from StringIO import StringIO
+from Products.CMFCore.utils import getToolByName
 
-from Products.Archetypes.Extensions.utils import install_subskin
-
-from Products.Plango.config import PROJECTNAME
-from Products.Plango.config import product_globals as GLOBALS
-
-def install(self, reinstall=False):
-    """ External Method to install Plango """
-    out = StringIO()
-    print >> out, "Installation log of %s:" % PROJECTNAME
-    install_subskin(self, out, GLOBALS)
-    return out.getvalue()
-
-
-def uninstall(self, reinstall=False):
-    out = StringIO()
-    print >> out, "Uninstallation log of %s:" % PROJECTNAME
-    return out.getvalue()
+def install(portal):
+    setup_tool = getToolByName(portal, 'portal_setup')
+    originalContext = setup_tool.getImportContextID()
+    setup_tool.setImportContext('profile-Products.Plango:plango')
+    portal.portal_setup.runImportStep('skins', False)
+    portal.portal_setup.setImportContext(originalContext)
+    return "Ran all import steps."
