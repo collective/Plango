@@ -1,0 +1,15 @@
+2006-02-14  Paolo Melchiorre  <paulox@paulox.net>
+
+    * version.txt: Updated to 1.0
+    * *: Packetized for public release
+
+2006-11-29  Paolo Melchiorre  <paulox@paulox.net>
+
+    * tango2plone.sh: Updated tango2plone.sh
+    * tango_plone_images: Added new directory
+    * version.txt: Updated to 1.0 RC1
+
+2006-11-26  Paolo Melchiorre  <paulox@paulox.net>
+
+    * version.txt: Updated to 1.0 beta 1
+    * *: Initial version

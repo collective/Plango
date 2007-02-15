@@ -1,0 +1,49 @@
+Plango - Set di icone tango per il Plone
+Copyright (C) 2006-2007  Paolo Melchiorre  <paulox@paulox.net>
+
+    Questo  programma è  software  libero; è  lecito redistribuirlo  o
+    modificarlo secondo i termini  della Licenza Pubblica Generica GNU
+    come è pubblicata dalla Free  Software Foundation; o la versione 2
+    della licenza o (a propria scelta) una versione successiva.
+
+    Questo programma  è distribuito nella  speranza che sia  utile, ma
+    SENZA  ALCUNA GARANZIA;  senza  neppure la  garanzia implicita  di
+    NEGOZIABILITÀ  o di  APPLICABILITÀ PER  UN PARTICOLARE  SCOPO.  Si
+    veda la Licenza Pubblica Generica GNU per avere maggiori dettagli.
+
+    Questo  programma deve  essere  distribuito assieme  ad una  copia
+    della Licenza Pubblica Generica GNU;  in caso contrario, se ne può
+    ottenere  una scrivendo  alla Free  Software Foundation,  Inc., 59
+    Temple Place, Suite 330, Boston, MA 02111-1307 USA
+
+
+
+Le Icone Tango
+Il set di Icone Tango sono licenziate secondo i temrini della licenza
+Creative Commons Attribuzione - Condividi allo stesso modo 2.5
+<http://creativecommons.org/licenses/by-sa/2.5/deed.it>
+
+Tu sei libero:
+* di riprodurre, distribuire, comunicare al pubblico, esporre in pubblico,
+   rappresentare, eseguire e recitare quest'opera
+* di modificare quest'opera
+
+Alle seguenti condizioni:
+* Attribuzione.
+   Devi attribuire la paternità dell'opera nei modi indicati dall'autore
+   o da chi ti ha dato l'opera in licenza.
+* Condividi allo stesso modo.
+   Se alteri o trasformi quest'opera, o se la usi per crearne un'altra,
+   puoi distribuire l'opera risultante solo con una licenza identica a questa.
+
+* Ogni volta che usi o distribuisci quest'opera, devi farlo secondo i termini
+   di questa licenza, che va comunicata con chiarezza.
+* In ogni caso, puoi concordare col titolare dei diritti d'autore utilizzi
+   di quest'opera non consentiti da questa licenza.
+
+Le utilizzazioni consentite dalla legge sul diritto d'autore e gli altri diritti
+non sono in alcun modo limitati da quanto sopra.
+
+--
+Questo è un riassunto in linguaggio accessibile a tutti del Codice Legale (la licenza integrale).
+<http://creativecommons.org/licenses/by-sa/2.5/legalcode>
