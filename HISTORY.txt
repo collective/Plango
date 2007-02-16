@@ -1,3 +1,8 @@
+﻿2006-02-16 Paolo Melchiorre <paulox@paulox.net>
+
+    * Extensions/Install.py: bug fixed
+    * *: UTF8 issue fixed
+
 2006-02-15  Paolo Melchiorre  <paulox@paulox.net>
 
     * version.txt: Updated to2.1

@@ -1,4 +1,4 @@
-Descrizione
+﻿Descrizione
 
     Plango è un prodotto che sostituisce il set di icone standard di Plone
     con il set di icone Tango.

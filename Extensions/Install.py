@@ -31,7 +31,7 @@ from StringIO import StringIO
 from Products.Archetypes.Extensions.utils import install_subskin
 
 from Products.Plango.config import PROJECTNAME
-from Products.Plango.config import product_globals as GLOBALS
+from Products.Plango.config import GLOBALS
 
 def install(self, reinstall=False):
     """ External Method to install Plango """

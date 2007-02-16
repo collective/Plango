@@ -1,4 +1,4 @@
-Plango - Tango Icon set for Plone
+﻿Plango - Tango Icon set for Plone
 Copyright (C) 2006-2007  Paolo Melchiorre  <paulox@paulox.net>
 
 This program is free software; you can redistribute it and/or

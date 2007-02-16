@@ -1,4 +1,4 @@
-Description
+﻿Description
 
     Plango is product that replaces the default Plone Icon Set with the Tango
     Icon set.
