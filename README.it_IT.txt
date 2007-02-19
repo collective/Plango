@@ -18,7 +18,7 @@ Installazione
 
     Seleziona il prodotto (spunta la casella) e clicca sul pulsante 'Installa'.
 
-    Disinstallazione -- This can be done from the same management screen.
+    Disinstallazione -- Può essere effettuata nella stessa pagina di gestione.
 
 Autore
 
@@ -34,6 +34,6 @@ Ringraziamenti
     - Il progetto Tango Desktop per le icone
       http://tango.freedesktop.org
 
-Liceza
+Licenza
 
     - Vedi i file Licenza.it_IT.txt e GPL.it_IT.txt
