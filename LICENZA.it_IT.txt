@@ -1,4 +1,4 @@
-Plango - Set di icone tango per il Plone
+﻿Plango - Set di icone tango per il Plone
 Copyright (C) 2006-2007  Paolo Melchiorre  <paulox@paulox.net>
 
     Questo  programma è  software  libero; è  lecito redistribuirlo  o

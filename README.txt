@@ -15,26 +15,26 @@ Installation
 
     The classic way:
 
-      Go to the 'Site Setup' page in the Plone interface and click on the
-      'Add/Remove Products' link.
+        Go to the 'Site Setup' page in the Plone interface and click on the
+        'Add/Remove Products' link.
 
-      Choose the product (check its checkbox) and click the 'Install' button.
+        Choose the product (check its checkbox) and click the 'Install' button.
 
-      Uninstall -- This can be done from the same management screen, but only
-      if you installed it from the quick installer.
+        Uninstall -- This can be done from the same management screen, but only
+        if you installed it from the quick installer.
 
     The Generic Setup way:
 
-      In the ZMI, go to 'portal_setup' and, (1) select the 'Properties' tab
-      and choose 'DIYPloneStyle' in the popup list before clicking 'Update'.
-      Then (2) go to the 'Import' tab and click 'Import all steps'.
+        In the ZMI, go to 'portal_setup' and, (1) select the 'Properties' tab
+        and choose 'Plango' in the popup list before clicking 'Update'.
+        Then (2) go to the 'Import' tab and click 'Import all steps'.
 
-      While adding a Plone Site to Zope (from the ZMI), you can select
-      'DIYPloneStyle' in the proposed Extension Profiles to have it installed
-      automatically during the creation of the portal.
+        While adding a 'Plone Site' to Zope (from the ZMI), you can select
+        'Plango' in the proposed 'Extension Profiles' to have it installed
+        automatically during the creation of the portal.
 
-      Uninstall -- This must be done manually from the ZMI, as GenericSetup
-      does not have an API for removing/uninstalling stuff (yet).
+        Uninstall -- This must be done manually from the ZMI, as GenericSetup
+        does not have an API for removing/uninstalling stuff (yet).
 
 Author
 

@@ -1,3 +1,10 @@
+2006-02-19  Paolo Melchiorre  <paulox@paulox.net>
+
+    * README.it_IT.txt: Added GenericSetup instructions
+    * README.txt: minor bug fixed
+    * *: UTF8 issue fixed
+    * version.txt: Updated to 2.5 (will not work with Plone 2.1)
+
 2006-02-15  David Convent  <davconvent@gmail.com>
 
     * profile/skins.py, configure.zcml, __init__.py: Added GenericSetup
@@ -6,7 +13,6 @@
       GenericSetup profile
     * config.py, refresh.txt, Extensions/__init__.py: Removed unnecessary/not
       working files
-    * version.txt: Updated to 2.5 (will not work with Plone 2.1)
 
 2006-02-15  Paolo Melchiorre  <paulox@paulox.net>
 
