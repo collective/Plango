@@ -1,5 +1,6 @@
 ﻿2006-02-23  Paolo Melchiorre  <paulox@paulox.net>
 
+    * Updated screenshot-en.gif, screenshot-it.gif
     * Updated discussionitem_icon.gif, user.gif, group.gif, rss.gif
     * Added phone_icon.gif, lock_icon.gif
     * Added directory tango_ploneboard_images with hot_icon.gif, lock_icon.gif,
