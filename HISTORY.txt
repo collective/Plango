@@ -1,11 +1,23 @@
-﻿2006-02-16 Paolo Melchiorre <paulox@paulox.net>
+﻿2006-02-23  Paolo Melchiorre  <paulox@paulox.net>
+
+    * Updated discussionitem_icon.gif, user.gif, group.gif, rss.gif
+    * Added phone_icon.gif, lock_icon.gif
+    * Added directory tango_ploneboard_images with hot_icon.gif, lock_icon.gif,
+        new_conversation.gif, norm_icon.gif, ploneboard_comment_icon.gif,
+        ploneboard_conversation_icon.gif, ploneboard_forum_icon.gif,
+        ploneboard_icon.gif, smiley_cool.png, smiley_lol.png, smiley_sad.png,
+        smiley_skeptic.png, smiley_smile.png, smiley_surprised.png,
+        smiley_tongue.png, smiley_wink.png, sticky_icon.gif
+    * version.txt: Updated to 2.1.1
+
+2006-02-16 Paolo Melchiorre <paulox@paulox.net>
 
     * Extensions/Install.py: bug fixed
     * *: UTF8 issue fixed
 
 2006-02-15  Paolo Melchiorre  <paulox@paulox.net>
 
-    * version.txt: Updated to2.1
+    * version.txt: Updated to 2.1
 
 2006-02-14  Paolo Melchiorre  <paulox@paulox.net>
 
