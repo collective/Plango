@@ -1,3 +1,11 @@
+2006-02-23  Paolo Melchiorre  <paulox@paulox.net>
+
+    * Updated screenshot-en.gif, screenshot-it.gif
+    * Updated discussionitem_icon.gif, user.gif, group.gif, rss.gif
+    * Added phone_icon.gif, lock_icon.gif
+    * Added directory tango_ploneboard_images with hot_icon.gif, lock_icon.gif, new_conversation.gif, norm_icon.gif, ploneboard_comment_icon.gif, ploneboard_conversation_icon.gif, ploneboard_forum_icon.gif, ploneboard_icon.gif, smiley_cool.png, smiley_lol.png, smiley_sad.png, smiley_skeptic.png, smiley_smile.png, smiley_surprised.png, smiley_tongue.png, smiley_wink.png, sticky_icon.gif
+    * version.txt: Updated to 2.5.1
+
 2006-02-19  Paolo Melchiorre  <paulox@paulox.net>
 
     * README.it_IT.txt: Added GenericSetup instructions
