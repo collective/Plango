@@ -1,3 +1,9 @@
+2006-02-26  Paolo Melchiorre  <paulox@paulox.net>
+
+    * profile/skins.xml: Updated GenericSetup profile to support Ploneboard icons.
+    * Added directory tango_ploneboard_images with application.png, c.png, down.png, f.png, image.png, log.png, mime.png, pl.png, py.png, sh.png, sxi.png, tex.png, unknown.png, video.png, audio.png, cpp.png, dvi.png, gf.png, info.png, man.png, o.png, png.png, quicktime.png, sxc.png, sxm.png, text.png, up.png, wav.png, avi.png, deb.png, exe.png, h.png, iso.png, message.png, pdf.png, ppt.png, rar.png, sxd.png, sxw.png, tgz.png, vcal.png, xls.png, core.png, doc.png, font.png, html.png, java.png, midi.png, pk.png, ps.png, rpm.png, sxg.png, tar.png, txt.png, vcard.png
+    * version.txt: Updated to 2.5.2 (svn trunk)
+
 2006-02-23  Paolo Melchiorre  <paulox@paulox.net>
 
     * Updated screenshot-en.gif, screenshot-it.gif
