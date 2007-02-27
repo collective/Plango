@@ -1,4 +1,24 @@
-﻿2006-02-23  Paolo Melchiorre  <paulox@paulox.net>
+2006-02-27  Paolo Melchiorre <paulox@paulox.net>
+
+    * Updated screenshot-en.gif, screenshot-it.gif
+    * version.txt: Updated to 2.1.2
+
+2006-02-26  Paolo Melchiorre <paulox@paulox.net>
+
+    * Added icons: book_icon.gif, error_icon.gif, error_log_icon.gif,
+        info.gif, save_icon.gif, undo_icon.gif
+    * Updated icons: info_icon.gif
+    * Added tango_mimetypes_icons directory with icons:
+        application.png, c.png, down.png, f.png, image.png, log.png,
+        mime.png, pl.png, py.png, sh.png, sxi.png, tex.png, unknown.png,
+        video.png, audio.png, cpp.png, dvi.png, gf.png, info.png, man.png,
+        o.png, png.png, quicktime.png, sxc.png, sxm.png, text.png, up.png,
+        wav.png, avi.png, deb.png, exe.png, h.png, iso.png, message.png,
+        pdf.png, ppt.png, rar.png, sxd.png, sxw.png, tgz.png, vcal.png,
+        xls.png, core.png, doc.png, font.png, html.png, java.png, midi.png,
+        pk.png, ps.png, rpm.png, sxg.png, tar.png, txt.png, vcard.png
+
+﻿2006-02-23  Paolo Melchiorre <paulox@paulox.net>
 
     * Updated screenshot-en.gif, screenshot-it.gif
     * Updated discussionitem_icon.gif, user.gif, group.gif, rss.gif
@@ -16,7 +36,7 @@
     * Extensions/Install.py: bug fixed
     * *: UTF8 issue fixed
 
-2006-02-15  Paolo Melchiorre  <paulox@paulox.net>
+2006-02-15  Paolo Melchiorre <paulox@paulox.net>
 
     * version.txt: Updated to 2.1
 
@@ -25,13 +45,13 @@
     * version.txt: Updated to 1.0
     * *: Packetized for public release
 
-2006-11-29  Paolo Melchiorre  <paulox@paulox.net>
+2006-11-29  Paolo Melchiorre <paulox@paulox.net>
 
     * tango2plone.sh: Updated tango2plone.sh
     * tango_plone_images: Added new directory
     * version.txt: Updated to 1.0 RC1
 
-2006-11-26  Paolo Melchiorre  <paulox@paulox.net>
+2006-11-26  Paolo Melchiorre <paulox@paulox.net>
 
     * version.txt: Updated to 1.0 beta 1
     * *: Initial version
