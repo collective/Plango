@@ -1,9 +1,9 @@
-2006-02-27 Paolo Melchiorre <paulox@paulox.net>
+2007-02-27 Paolo Melchiorre <paulox@paulox.net>
 
     * Updated screenshot-en.gif, screenshot-it.gif
     * version.txt: Updated to 2.1.2
 
-2006-02-26 Paolo Melchiorre <paulox@paulox.net>
+2007-02-26 Paolo Melchiorre <paulox@paulox.net>
 
     * Added icons: book_icon.gif, error_icon.gif, error_log_icon.gif,
         info.gif, save_icon.gif, undo_icon.gif
@@ -18,7 +18,7 @@
         xls.png, core.png, doc.png, font.png, html.png, java.png, midi.png,
         pk.png, ps.png, rpm.png, sxg.png, tar.png, txt.png, vcard.png
 
-2006-02-23 Paolo Melchiorre <paulox@paulox.net>
+2007-02-23 Paolo Melchiorre <paulox@paulox.net>
 
     * Updated screenshot-en.gif, screenshot-it.gif
     * Updated discussionitem_icon.gif, user.gif, group.gif, rss.gif
@@ -31,16 +31,16 @@
         smiley_tongue.png, smiley_wink.png, sticky_icon.gif
     * version.txt: Updated to 2.1.1
 
-2006-02-16 Paolo Melchiorre <paulox@paulox.net>
+2007-02-16 Paolo Melchiorre <paulox@paulox.net>
 
     * Extensions/Install.py: bug fixed
     * *: UTF8 issue fixed
 
-2006-02-15 Paolo Melchiorre <paulox@paulox.net>
+2007-02-15 Paolo Melchiorre <paulox@paulox.net>
 
     * version.txt: Updated to 2.1
 
-2006-02-14 Paolo Melchiorre <paulox@paulox.net>
+2007-02-14 Paolo Melchiorre <paulox@paulox.net>
 
     * version.txt: Updated to 1.0
     * *: Packetized for public release
