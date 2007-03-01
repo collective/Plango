@@ -1,25 +1,57 @@
-2006-02-26  Paolo Melchiorre  <paulox@paulox.net>
+2006-03-01 Paolo Melchiorre <paulox@paulox.net>
+
+    * profile/skins.xml: Updated GenericSetup profile to support MimeTypes icons.
+    * version.txt: Updated to 2.5.2.
+    * Updated and formatted: HISTORY.txt, LICENSE.txt, LICENZA.it_IT.txt,
+        README.it_IT.txt, README.txt.
+
+2006-02-27 Paolo Melchiorre <paulox@paulox.net>
+
+    * Updated images: screenshot-en.gif, screenshot-it.gif
+
+2006-02-26 Paolo Melchiorre <paulox@paulox.net>
+
+    * Added icons: book_icon.gif, error_icon.gif, error_log_icon.gif,
+        info.gif, save_icon.gif, undo_icon.gif
+    * Updated icons: info_icon.gif
+    * version.txt: Updated to 2.5.2 (svn trunk)
+    * Added directory: tango_mimetypes_icons
+    * Added icons in tango_mimetypes_icons:
+        application.png, c.png, down.png, f.png, image.png, log.png,
+        mime.png, pl.png, py.png, sh.png, sxi.png, tex.png, unknown.png,
+        video.png, audio.png, cpp.png, dvi.png, gf.png, info.png, man.png,
+        o.png, png.png, quicktime.png, sxc.png, sxm.png, text.png, up.png,
+        wav.png, avi.png, deb.png, exe.png, h.png, iso.png, message.png,
+        pdf.png, ppt.png, rar.png, sxd.png, sxw.png, tgz.png, vcal.png,
+        xls.png, core.png, doc.png, font.png, html.png, java.png, midi.png,
+        pk.png, ps.png, rpm.png, sxg.png, tar.png, txt.png, vcard.png
+
+2006-02-26 Paolo Melchiorre <paulox@paulox.net>
 
     * profile/skins.xml: Updated GenericSetup profile to support Ploneboard icons.
-    * Added directory tango_ploneboard_images with application.png, c.png, down.png, f.png, image.png, log.png, mime.png, pl.png, py.png, sh.png, sxi.png, tex.png, unknown.png, video.png, audio.png, cpp.png, dvi.png, gf.png, info.png, man.png, o.png, png.png, quicktime.png, sxc.png, sxm.png, text.png, up.png, wav.png, avi.png, deb.png, exe.png, h.png, iso.png, message.png, pdf.png, ppt.png, rar.png, sxd.png, sxw.png, tgz.png, vcal.png, xls.png, core.png, doc.png, font.png, html.png, java.png, midi.png, pk.png, ps.png, rpm.png, sxg.png, tar.png, txt.png, vcard.png
-    * version.txt: Updated to 2.5.2 (svn trunk)
 
-2006-02-23  Paolo Melchiorre  <paulox@paulox.net>
+2006-02-23 Paolo Melchiorre <paulox@paulox.net>
 
-    * Updated screenshot-en.gif, screenshot-it.gif
-    * Updated discussionitem_icon.gif, user.gif, group.gif, rss.gif
-    * Added phone_icon.gif, lock_icon.gif
-    * Added directory tango_ploneboard_images with hot_icon.gif, lock_icon.gif, new_conversation.gif, norm_icon.gif, ploneboard_comment_icon.gif, ploneboard_conversation_icon.gif, ploneboard_forum_icon.gif, ploneboard_icon.gif, smiley_cool.png, smiley_lol.png, smiley_sad.png, smiley_skeptic.png, smiley_smile.png, smiley_surprised.png, smiley_tongue.png, smiley_wink.png, sticky_icon.gif
+    * Updated images: screenshot-en.gif, screenshot-it.gif
+    * Updated icons:discussionitem_icon.gif, user.gif, group.gif, rss.gif
+    * Added icons: phone_icon.gif, lock_icon.gif
+    * Added directory: tango_ploneboard_images
+    * Added icons in tango_ploneboard_images:
+        hot_icon.gif, lock_icon.gif, new_conversation.gif, norm_icon.gif,
+        ploneboard_comment_icon.gif, ploneboard_conversation_icon.gif,
+        ploneboard_forum_icon.gif, ploneboard_icon.gif, smiley_cool.png,
+        smiley_lol.png, smiley_sad.png, smiley_skeptic.png, smiley_smile.png,
+        smiley_surprised.png, smiley_tongue.png, smiley_wink.png, sticky_icon.gif
     * version.txt: Updated to 2.5.1
 
-2006-02-19  Paolo Melchiorre  <paulox@paulox.net>
+2006-02-19 Paolo Melchiorre <paulox@paulox.net>
 
     * README.it_IT.txt: Added GenericSetup instructions
     * README.txt: minor bug fixed
     * *: UTF8 issue fixed
     * version.txt: Updated to 2.5 (will not work with Plone 2.1)
 
-2006-02-15  David Convent  <davconvent@gmail.com>
+2006-02-15 David Convent <davconvent@gmail.com>
 
     * profile/skins.py, configure.zcml, __init__.py: Added GenericSetup
       profile
@@ -28,22 +60,22 @@
     * config.py, refresh.txt, Extensions/__init__.py: Removed unnecessary/not
       working files
 
-2006-02-15  Paolo Melchiorre  <paulox@paulox.net>
+2006-02-15 Paolo Melchiorre <paulox@paulox.net>
 
     * version.txt: Updated to 2.1
 
-2006-02-14  Paolo Melchiorre  <paulox@paulox.net>
+2006-02-14 Paolo Melchiorre <paulox@paulox.net>
 
     * version.txt: Updated to 1.0
     * *: Packetized for public release
 
-2006-11-29  Paolo Melchiorre  <paulox@paulox.net>
+2006-11-29 Paolo Melchiorre <paulox@paulox.net>
 
     * tango2plone.sh: Updated tango2plone.sh
     * tango_plone_images: Added new directory
     * version.txt: Updated to 1.0 RC1
 
-2006-11-26  Paolo Melchiorre  <paulox@paulox.net>
+2006-11-26 Paolo Melchiorre <paulox@paulox.net>
 
     * version.txt: Updated to 1.0 beta 1
     * *: Initial version

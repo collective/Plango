@@ -1,12 +1,17 @@
 Description
 
-    Plango is product that replaces the default Plone Icon Set with the Tango
-    Icon set.
+    Plango is product that replaces the default Plone Icon Set with icons
+    from the Tango Project.
 
-    During product installation, a new layer is added to all skins selections
-    in the portal_skins tool.
-    The new layer corresponds to a folder in portal_skins (named
-    'tango_plone_images') which contains icon replacements.
+    During product installation, some new layers is added to all skins
+    selections in the portal_skins tool.
+
+    The new layers corresponds to some folders in portal_skins which contains
+    icon replacements.
+
+    The Tango Icon Set [1] is part of the Tango Desktop Project [2].
+    [1] http://tango.freedesktop.org/Tango_Icon_Library
+    [2] http://tango.freedesktop.org
 
 Installation
 
@@ -47,8 +52,8 @@ Contributors
 
 Credits
 
-    - Tango Desktop Project for Icons
-      http://tango.freedesktop.org
+    - Tango Desktop Project for Icons and wiki account [3].
+      [3] http://tango.freedesktop.org/User:PauLoX
 
 License
 

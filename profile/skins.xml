@@ -12,6 +12,7 @@
     <skin-path name="*">
         <layer name="tango_plone_images" insert-after="custom"/>
         <layer name="tango_ploneboard_images" insert-after="tango_plone_images"/>
+        <layer name="tango_mimetypes_icons" insert-after="tango_ploneboard_images"/>
     </skin-path>
 
 </object>
