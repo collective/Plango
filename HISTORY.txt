@@ -1,6 +1,27 @@
+2007-03-05 Paolo Melchiorre <paulox@paulox.net>
+
+    * Renamed directories:
+        plango_mimetypes_icons, plango_ploneboard_images, plango_plone_images
+    * Added icon in plango_plone_images:
+        edit_rename.gif
+    * Added directories:
+        plango, plango/plonekupuimages
+    * Added icons in plango:
+        accessibility_icon.gif, contact_icon.gif, login_icon.gif
+    * Added icons in plango/plonekupuimages:
+        bold.gif, center.gif, definitionlist.gif, delete_icon.gif,
+        hyperlink.gif, image.gif, indent.gif, italic.gif, left_just.gif,
+        list.gif, numbered_list.gif, outdent.gif, redo.gif, right_just.gif,
+        strikethrough.gif, subscript.gif, superscript.gif, table.gif,
+        underline.gif, undo.gif, unformat.gif, view-source.gif
+    * Updated images: screenshot-en.gif
+    * version.txt: Updated to 2.1.3
+    * Updated and formatted: HISTORY.txt, LICENSE.txt, LICENZA.it_IT.txt,
+        README.it_IT.txt, README.txt.
+
 2007-02-27 Paolo Melchiorre <paulox@paulox.net>
 
-    * Updated screenshot-en.gif, screenshot-it.gif
+    * Updated images: screenshot-en.gif, screenshot-it.gif
     * version.txt: Updated to 2.1.2
 
 2007-02-26 Paolo Melchiorre <paulox@paulox.net>
@@ -8,7 +29,8 @@
     * Added icons: book_icon.gif, error_icon.gif, error_log_icon.gif,
         info.gif, save_icon.gif, undo_icon.gif
     * Updated icons: info_icon.gif
-    * Added tango_mimetypes_icons directory with icons:
+    * Added directory: tango_mimetypes_icons
+    * Added icons in tango_mimetypes_icons:
         application.png, c.png, down.png, f.png, image.png, log.png,
         mime.png, pl.png, py.png, sh.png, sxi.png, tex.png, unknown.png,
         video.png, audio.png, cpp.png, dvi.png, gf.png, info.png, man.png,
@@ -20,15 +42,15 @@
 
 2007-02-23 Paolo Melchiorre <paulox@paulox.net>
 
-    * Updated screenshot-en.gif, screenshot-it.gif
-    * Updated discussionitem_icon.gif, user.gif, group.gif, rss.gif
-    * Added phone_icon.gif, lock_icon.gif
-    * Added directory tango_ploneboard_images with hot_icon.gif, lock_icon.gif,
-        new_conversation.gif, norm_icon.gif, ploneboard_comment_icon.gif,
-        ploneboard_conversation_icon.gif, ploneboard_forum_icon.gif,
-        ploneboard_icon.gif, smiley_cool.png, smiley_lol.png, smiley_sad.png,
-        smiley_skeptic.png, smiley_smile.png, smiley_surprised.png,
-        smiley_tongue.png, smiley_wink.png, sticky_icon.gif
+    * Updated images: screenshot-en.gif, screenshot-it.gif
+    * Updated icons: discussionitem_icon.gif, user.gif, group.gif, rss.gif
+    * Added icons: phone_icon.gif, lock_icon.gif
+    * Added icons in tango_ploneboard_images:
+        hot_icon.gif, lock_icon.gif, new_conversation.gif, norm_icon.gif,
+        ploneboard_comment_icon.gif, ploneboard_conversation_icon.gif,
+        ploneboard_forum_icon.gif, ploneboard_icon.gif, smiley_cool.png,
+        smiley_lol.png, smiley_sad.png, smiley_skeptic.png, smiley_smile.png,
+        smiley_surprised.png, smiley_tongue.png, smiley_wink.png, sticky_icon.gi
     * version.txt: Updated to 2.1.1
 
 2007-02-16 Paolo Melchiorre <paulox@paulox.net>
