@@ -1,3 +1,5 @@
+.. image:: plango.gif
+
 Descrizione
 ===========
 
@@ -8,6 +10,11 @@ Durante l'installazione, alcuni nuovi livelli vengono aggiunti in tutti gli skin
 I nuovi livelli corrispondono ad alcune cartelle in portal_skins che contengono le icone sostitutive.
 
 Il set di `Icone Tango <http://tango.freedesktop.org/Tango_Icon_Library>`_  è parte del progetto `Tango Desktop <http://tango.freedesktop.org>`_.
+
+Schermata
+==========
+
+.. image:: screenshot-it.gif
 
 Installazione
 =============
