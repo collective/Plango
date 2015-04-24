@@ -1,3 +1,5 @@
+.. image:: plango.gif
+
 Description
 ===========
 
@@ -8,6 +10,11 @@ During product installation, some new layers is added to all skins selections in
 The new layers corresponds to some folders in portal_skins which contains icon replacements.
 
 The `Tango Icon Set <http://tango.freedesktop.org/Tango_Icon_Library>`_ is part of the `Tango Desktop Project <http://tango.freedesktop.org>`_.
+
+Screenshot
+==========
+
+.. image:: screenshot-en.gif
 
 Installation
 ============
